@@ -2,9 +2,12 @@
 
 Final-year AI & Data Science engineering student (K.J. Somaiya School of Engineering, 2027) working at the intersection of ML research, data engineering, and applied AI systems.
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://krutarth-ashar-portfolio.vercel.app/)
+
 - 🔭 Currently building **Horizon Capital** — a 13-agent autonomous hedge fund platform (final-year project)
 - 🧠 Recently worked on RLHF/RLAIF pipelines and an internal RL alignment library (**ThinkRL**) at EllanorAI
 - 🌱 Learning: LangChain, RAG pipeline design
+- 🌐 Portfolio: [krutarth-ashar-portfolio.vercel.app](https://krutarth-ashar-portfolio.vercel.app/)
 - 📫 Reach me: krutarth.a@somaiya.edu | [LinkedIn](#)
 
 ---
@@ -31,15 +34,10 @@ Final-year AI & Data Science engineering student (K.J. Somaiya School of Enginee
 
 | Project | What it does |
 |---|---|
+| **[Crewmate](https://github.com/krutarth3238/Crewmate)** | Gamified AI co-founder console — server-authoritative trust engine, real agent execution loops, and secure boundary-gated autonomy. Level up your AI teammate |
 | **[nexus-crm](https://github.com/krutarth3238/nexus-crm)** | Full-stack customer support CRM — Node.js/Express/SQLite backend, JWT auth, ticket management, analytics, Railway deployment |
 | **[civiciq](https://github.com/krutarth3238/civiciq)** | AI-powered civic education assistant teaching election processes, generating adaptive quizzes, tracking learning with Gemini + Google APIs |
 | **[slm-lora-finetuning](https://github.com/krutarth3238/slm-lora-finetuning)** | LoRA-based fine-tuning of GPT-2 using multi-domain datasets with PEFT and W&B tracking |
 | **[ppo_cli](https://github.com/krutarth3238/ppo_cli)** | PPO reinforcement learning CLI toolkit — PyTorch + Gymnasium, validated on CartPole, LunarLander, HalfCheetah |
 | **[lifesync](https://github.com/krutarth3238/lifesync)** | AI productivity command center — terminal assistant integrating Calendar, Gmail, Sheets, Maps with a Gemini agent layer |
 
----
-
-### 📊 GitHub Stats
-
-![Krutarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=krutarth3238&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krutarth3238&layout=compact)
